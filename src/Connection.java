@@ -6,8 +6,6 @@ import java.util.Scanner;
  * @authors Benny Bergle, Andrey Kryschuk, Brayan Escobar
  * @version 12.11.2021
  *
- * update notes:
- * -works!
  */
 public class Connection {
 
